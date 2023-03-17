@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Webpage</title>
+</head>
+<body>
+
+    <!-- Home section -->
+    <section id="home">
+        <h1>Welcome to my Personal Webpage</h1>
+        <p>Here you can find information about my research, teaching, publications, and contact details.</p>
+    </section>
+
+    <!-- Research section -->
+    <section id="research">
+        <h2>Research</h2>
+        <p>Here you can find information about my research interests, projects, and publications.</p>
+    </section>
+
+    <!-- Teaching section -->
+    <section id="teaching">
+        <h2>Teaching</h2>
+        <p>Here you can find information about my teaching experience, courses taught, and syllabi.</p>
+    </section>
+
+    <!-- Publication section -->
+    <section id="publications">
+        <h2>Publications</h2>
+        <p>Here you can find a list of my publications, including articles, conference papers, and book chapters.</p>
+    </section>
+
+    <!-- Contact section -->
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>You can contact me at the following email address:</p>
+        <p><a href="mailto:your-email@example.com">your-email@example.com</a></p>
+    </section>
+
+    <!-- CV section -->
+    <section id="cv">
+        <h2>CV</h2>
+        <p>Here you can find my curriculum vitae.</p>
+        <p><a href="path/to/your/cv.pdf" target="_blank">Download my CV</a></p>
+    </section>
+
+</body>
+</html>
